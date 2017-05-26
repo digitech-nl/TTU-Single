@@ -1,0 +1,77 @@
+{
+
+			"brand": "ProJET",
+			"message": {
+				"0": {
+					"text": "Off",
+          				"speech":"OFF.wav"
+				},
+				"1": {
+					"text": "Standby",
+					"speech":"standby.wav"
+				},
+				"2": {
+					"text": "Auto",
+					"speech":"auto.wav"
+				},
+				"5": {
+					"text": "Ignition",
+					"speech":"ignite.wav"
+				},
+				"7": {
+					"text": "Ramp up",
+					"speech":"ramp-up.wav"
+				},
+				"9": {
+					"text": "Slow down",
+          				"speech" : "SLOW DOWN.wav"
+				},
+				"10": {
+					"text": "Cool down",
+					"speech":"cool_down.wav"
+				},
+				"11": {
+					"text": "Calibrate",
+					"speech":"calibrate.wav"
+					
+				},
+				"12": {
+					"text": "Cal. idle",
+					"speech":"cal idle.wav"
+				},
+				"13": {
+					"text": "Go idle",
+					"speech":"go idle.wav"
+				},
+				"15": {
+					"text": "Burner on",
+          				"speech" : "BURNER ON.wav"
+				},
+				"16": {
+					"text": "Auto HHC",
+					"speech":"auto-hc.wav"
+				},
+				"18": {
+					"text": "Wait acc",
+					"speech":"wait acc.wav"
+				},
+				"23": {
+					"text": "Preheat",
+					"speech":"preheat.wav"
+				},
+				"25": {
+					"text": "Burn out",
+					"speech":"burn_out.wav"
+
+				},
+				"26": {
+					"text": "Steady",
+					"speech":"steady.wav"
+				},
+				"255": {
+					"text": "ECU Offline",
+					"speech":"ecuoffline.wav"
+				}
+			}
+
+}
